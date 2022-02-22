@@ -1,0 +1,15 @@
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\True_False.exe
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\True_False.deps.json
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\True_False.runtimeconfig.json
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\True_False.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\ref\True_False.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\bin\Debug\net6.0\True_False.pdb
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.csproj.AssemblyReference.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.AssemblyInfoInputs.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.AssemblyInfo.cs
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.csproj.CoreCompileInputs.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\ref\True_False.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.pdb
+C:\Users\zagri\Desktop\GeekBrains\seminar3\True_False\obj\Debug\net6.0\True_False.genruntimeconfig.cache
